@@ -162,10 +162,6 @@ export default function ContactPage() {
                         <CheckCircle2 className="h-4 w-4 text-green-600 mt-0.5 mr-2 flex-shrink-0" />
                         <span>Data protection compliant with privacy regulations</span>
                       </li>
-                      <li className="flex items-start">
-                        <CheckCircle2 className="h-4 w-4 text-green-600 mt-0.5 mr-2 flex-shrink-0" />
-                        <span>Transparent business practices</span>
-                      </li>
                     </ul>
                   </div>
                 </CardContent>

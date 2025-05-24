@@ -63,12 +63,6 @@ export default function DownloadCta() {
                 </li>
                 <li className="flex items-center">
                   <div className="bg-teal-100 p-2 rounded-full mr-4">
-                    <Gift className="h-5 w-5 text-teal-600" />
-                  </div>
-                  <span className="text-gray-700">Virtual rewards and collectible items</span>
-                </li>
-                <li className="flex items-center">
-                  <div className="bg-teal-100 p-2 rounded-full mr-4">
                     <Shield className="h-5 w-5 text-teal-600" />
                   </div>
                   <span className="text-gray-700">Safe environment with no real money</span>
@@ -90,7 +84,7 @@ export default function DownloadCta() {
                   Everything is virtual and has no monetary value.
                 </p>
                 <div className="bg-white/20 backdrop-blur-sm rounded-lg p-4 mb-6">
-                  <p className="font-medium">What you'll get:</p>
+                  <p className="font-medium">You will get everything for free:</p>
                   <ul className="mt-2 space-y-2">
                     <li className="flex items-center">
                       <span className="text-amber-200 mr-2">✓</span>
